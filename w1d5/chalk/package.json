@@ -1,0 +1,21 @@
+{
+  "name": "myfirstpackage",
+  "version": "1.0.0",
+  "description": "First time of a package creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"echo \\\"Error\\\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "chalk"
+  },
+  "keywords": [
+    "abc"
+  ],
+  "author": "Pablo",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "chalk": "^2.3.0"
+  }
+}
